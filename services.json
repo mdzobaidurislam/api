@@ -1,50 +1,44 @@
 [
   {
     "id": "1",
-    "name": "BalanceFrom Rower-Ride",
-    "category": " BalanceFrom",
+    "name": "Diet for Fitness Training.",
     "price": "85",
-    "short_des":"VERSATILE HANDLEBARS: Take advantage of multiple hand positions to work muscles in your back and chest.",
+    "short_des":"Making the commitment to exercise regularly is a terrific start to getting fit. However, without sound nutritional guidance, achieving your goals may be impossible. Tough workouts demand the right kind of fuel — and that fuel comes from the foods and beverages you consume.",
     "img" :"https://i.ibb.co/Bzz2d98/71-DZWn-Pn-Ow-L-AC-SL1500.jpg"
   },
   {
     "id": "2",
-    "name": "BalanceFrom Rower-Ride",
-    "category": " BalanceFrom",
-    "price": "85",
-    "short_des":"VERSATILE HANDLEBARS: Take advantage of multiple hand positions to work muscles in your back and chest.",
-    "img" :"https://i.ibb.co/Bzz2d98/71-DZWn-Pn-Ow-L-AC-SL1500.jpg"
+    "name": "FITNESS MOTIVATION",
+    "price": "55",
+    "short_des":"GET A WORKOUT PARTNER. Meeting up with friends at the gym is an exciting way to catch up and hang out, all while getting in shape.TRACK YOUR PROGRESS. GIVE YOURSELF A REAL REWARD. TALK WITH SOMEONE WHO DID IT. CHANGE UP YOUR ROUTINE",
+    "img" :"https://i.ibb.co/6H0frM5/Screenshot-5.png"
   },
   {
     "id": "3",
-    "name": "BalanceFrom Rower-Ride",
+    "name": "Simple Tips for Fitness Success",
     "category": " BalanceFrom",
-    "price": "85",
-    "short_des":"VERSATILE HANDLEBARS: Take advantage of multiple hand positions to work muscles in your back and chest.",
-    "img" :"https://i.ibb.co/Bzz2d98/71-DZWn-Pn-Ow-L-AC-SL1500.jpg"
+    "price": "39",
+    "short_des":"Exercise Daily. Exercise daily for at least an hour.Eat the Right Foods and Portion Each Meal. No matter how bad your stomach is telling you to go for candy over healthy food, try to stay away from sweets.Keep Track of Calories and Food Intake Per Day.Be Sure to Get Sleep",
+    "img" :"https://i.ibb.co/S3vW72V/7-tips-for-a-successful-return-to-the-gym-after-lockdown-1.jpg"
   },
   {
     "id": "4",
-    "name": "BalanceFrom Rower-Ride",
-    "category": " BalanceFrom",
-    "price": "85",
-    "short_des":"VERSATILE HANDLEBARS: Take advantage of multiple hand positions to work muscles in your back and chest.",
-    "img" :"https://i.ibb.co/Bzz2d98/71-DZWn-Pn-Ow-L-AC-SL1500.jpg"
+    "name": "How do you show leadership in the gym?"
+    "price": "65",
+    "short_des":"Make a genuine effort to know your people.Make others accountable by giving them your trust.Ask for input on the decision, even if you didn't make it.Remain calm in stressful situations—and delegate.Inspire.",
+    "img" :"https://i.ibb.co/LkwCZ8g/Peak-Leadership-Fitness.jpg"
   },
   {
     "id": "5",
-    "name": "BalanceFrom Rower-Ride",
-    "category": " BalanceFrom",
-    "price": "85",
-    "short_des":"VERSATILE HANDLEBARS: Take advantage of multiple hand positions to work muscles in your back and chest.",
+    "name": "Gym time management skills",
+    "price": "49",
+    "short_des":"Record Your Current Schedule.Make a List.Use a Tickler File. Use 30 Minutes at the Start of Every Day to Schedule.Take Advantage of the Paret Principle Schedule Time for Interruptions.Complete Your Most Important Tasks First.Deadlines Throughout the Day.",
     "img" :"https://i.ibb.co/Bzz2d98/71-DZWn-Pn-Ow-L-AC-SL1500.jpg"
   },
   {
     "id": "6",
-    "name": "BalanceFrom Rower-Ride",
-    "category": " BalanceFrom",
-    "price": "85",
-    "short_des":"VERSATILE HANDLEBARS: Take advantage of multiple hand positions to work muscles in your back and chest.",
+    "name": "Gym health and safety regulations",
+    "short_des":"Form, form, form. A general rule of weight training is form before weight.Use a spotter or gym partner.Stay hydrated.Be aware of your surroundings.Put your weights back.Always use a towel.Warm-up.Take your time.",
     "img" :"https://i.ibb.co/Bzz2d98/71-DZWn-Pn-Ow-L-AC-SL1500.jpg"
   }
 ]
