@@ -1,1 +1,32 @@
-ss
+[
+  {
+    "id": "1",
+    "title": "Difference between Authentication and Authorization",
+    "category": {
+      "Authentication",
+      "identity ",
+      "MongoDb"
+    }
+    "description":"<strong>Authentication:</strong>: In authentication process, the identity of users are checked for providing the access to the system.In authentication process, users or persons are verified.It is done before the authorization process.It needs usually user’s login details.Authentication determines whether the person is user or not. <strong>Authorization:</strong> While in authorization process, person’s or user’s authorities are checked for accessing the resources.While in this process, users or persons are validated.While this process is done after the authentication process.While it needs user’s privilege or security levels.While it determines What permission do user have?",
+    "img" :"https://i.ibb.co/kQgncGN/Screenshot-4.png"
+  },
+  {
+    "id": "2",
+    "title": "Why are you using firebase? What other options do you have to implement authentication?",
+    "category": {
+      "Authentication",
+      "identity ",
+      "MongoDb"
+    }
+    "short_des":"It’s easy to start a project with Firebase or add a Firebase to your project. It allows real-time database connection, which means multiple users can see the changes in the data when the data gets created or edited.The same applies for file storage. Quick setup authentication via the major providers (Google, Twitter, Facebook, GitHub). Https by default - secure http traffic without setting up certificates. Any static html/javascript content can be hosted.",
+    "img" :"https://i.ibb.co/JCn7vy2/firebase11.jpg"
+  },
+  {
+    "id": "3",
+    "name": "BalanceFrom Rower-Ride",
+    "category": " BalanceFrom",
+    "price": "85",
+    "short_des":"VERSATILE HANDLEBARS: Take advantage of multiple hand positions to work muscles in your back and chest.",
+    "img" :"https://i.ibb.co/Bzz2d98/71-DZWn-Pn-Ow-L-AC-SL1500.jpg"
+  }
+]
