@@ -13,7 +13,7 @@
   },
   {
     "id": "3",
-    "name": "What other services does firebase provide other than authentication?",
+    "title": "What other services does firebase provide other than authentication?",
     "description":" It provides different kinds of services that help you to develop high-quality mobile and web applications to grow your business.Firebase is a full package that can help in developing your mobile or web applications faster with fewer resources and more efficiency.There are many services which Firebase provides, Most useful of them are:1. Cloud Firestore 2.Cloud Functions 3.Authentication 4.Hosting 5.Cloud Storage 6.Google Analytics 7.Predictions 8.Cloud Messaging 9.Dynamic Links 10.Remote Config etc.",
     "img" :"https://i.ibb.co/7WpbL0w/wgh5fjp7v2ss605bnlvn.png"
   }
