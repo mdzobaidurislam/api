@@ -16,7 +16,6 @@
   {
     "id": "3",
     "name": "Simple Tips for Fitness Success",
-    "category": " BalanceFrom",
     "price": "39",
     "short_des":"Exercise Daily. Exercise daily for at least an hour.Eat the Right Foods and Portion Each Meal. No matter how bad your stomach is telling you to go for candy over healthy food, try to stay away from sweets.Keep Track of Calories and Food Intake Per Day.Be Sure to Get Sleep",
     "img" :"https://i.ibb.co/S3vW72V/7-tips-for-a-successful-return-to-the-gym-after-lockdown-1.jpg"
@@ -38,6 +37,7 @@
   {
     "id": "6",
     "name": "Gym health and safety regulations",
+     "price": "89",
     "short_des":"Form, form, form. A general rule of weight training is form before weight.Use a spotter or gym partner.Stay hydrated.Be aware of your surroundings.Put your weights back.Always use a towel.Warm-up.Take your time.",
     "img" :"https://i.ibb.co/Bzz2d98/71-DZWn-Pn-Ow-L-AC-SL1500.jpg"
   }
